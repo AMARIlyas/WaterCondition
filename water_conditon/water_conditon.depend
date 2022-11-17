@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668705552 source:c:\users\igami\desktop\c\water_conditon\main.c
+	<stdio.h>
+	<stdlib.h>
+
